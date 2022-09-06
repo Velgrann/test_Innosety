@@ -1,0 +1,17 @@
+exersise\service\AuthorServiceImpl.class
+exersise\TestInnosetyAplication.class
+exersise\graphql\AuthorMutation.class
+exersise\graphql\AuthorQuery.class
+exersise\graphql\BookQuery.class
+exersise\service\BookService.class
+exersise\model\Book.class
+exersise\Converter\BookConverter.class
+exersise\Dao\BookRepository.class
+exersise\service\AuthorService.class
+exersise\Converter\AuthorConverter.class
+exersise\Entity\BookEntity.class
+exersise\Dao\AuthorRepository.class
+exersise\model\Author.class
+exersise\graphql\BookMutation.class
+exersise\service\BookServiceImpl.class
+exersise\Entity\AuthorEntity.class
